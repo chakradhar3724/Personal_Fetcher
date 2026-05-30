@@ -1,0 +1,11 @@
+streamlit
+arxiv
+pymupdf
+pandas
+chromadb
+sentence-transformers
+ollama
+python-dotenv
+requests
+pydantic
+torchvision

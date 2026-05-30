@@ -1,0 +1,11 @@
+Compare the selected papers based on:
+
+problem
+method
+dataset
+model
+evaluation
+limitations
+contribution
+
+Use only the provided extracted fields.

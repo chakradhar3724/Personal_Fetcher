@@ -1,0 +1,13 @@
+Extract the following fields from the paper:
+
+problem
+method
+dataset
+model
+evaluation
+limitations
+contribution
+
+Return only valid JSON.
+Do not invent missing details.
+If something is not present, write "Not specified".
