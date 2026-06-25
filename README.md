@@ -109,7 +109,7 @@ Personal_Fetcher/
 
 ---
 
-## 👤 Author
+## Author
 
 **Chakradhar Peddavenkatagari**  
 
